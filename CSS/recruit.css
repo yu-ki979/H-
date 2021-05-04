@@ -143,6 +143,7 @@ recruit_list h2 {
 
 .member_info {
   position: relative;
+  top: 386px;
   width: 100%;
   padding: 35px 45px;
   background-color: rgba(17, 17, 17, 0.6); 
