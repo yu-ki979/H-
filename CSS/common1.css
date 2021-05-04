@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+body {
+  font-size: 15px;
+  line-height: 1.8;
+  letter-spacing: 1px;
+  word-break: break-all;
+  color: #555;
+}
+
+a {
+  text-decoration: none;
+  color: #555;
+}
+
+li {
+  list-style: none;
+}
+
+.contact {
+  position: relative;
+  width: 100%;
+}
+
+.contact h3 {
+  font-size: 50px;
+  color: rgb(10, 10, 223);
+  text-align: center;
+}
+
+.contact h3 small {
+  font-size: 20px;
+  color: #555;
+}
+
+.contact p {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 80px;
+}
+
+.contact .btn a {
+  text-align: center;
+  position: relative;
+  background:rgb(10, 10, 223);
+  padding: 20px 60px;
+  color: #fff;
+  font-weight: bold;
+}
+
+
+.copyright {
+  float: right;
+  font-size: 5px;
+  font-weight: bold;
+  padding: 10px;
+}
