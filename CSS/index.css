@@ -5,7 +5,7 @@
   width: 100%;
   position: relative;
 }
-
+ 
 .header_inner img {
   position: absolute;
   width: 150px;
@@ -23,7 +23,7 @@
   padding-bottom: 50px;
   font-weight: bold;
   font-style: italic;
- background-color: rgb(221, 232, 240); 
+  background-color: rgb(221, 232, 240);
 } 
 
 .header_inner nav ul li:first-child {
@@ -48,7 +48,7 @@
   float: right;
   text-align: center;
 }
-
+/* トップ画像 */
 .top_inner img {
   width: 100%;
   height: auto;
